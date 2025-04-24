@@ -14,7 +14,7 @@ This Unity-based mobile application transforms 2D brain MRI images into an inter
 
 ## 🛠 Tech Stack
 
-- Unity (2022.3.x)
+- Unity (2022.3.60f1)
 - AR Foundation
 - Blender (for model optimization)
 - 3D Slicer (for MRI segmentation)
