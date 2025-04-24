@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\MRIBrainApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8032BA-D5BD-74E8-B825-FA357B887C0D}|Assembly-CSharp.csproj|d:\\unityproject\\mribrainapp\\assets\\brainobject\\brainarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8032BA-D5BD-74E8-B825-FA357B887C0D}|Assembly-CSharp.csproj|solutionrelative:assets\\brainobject\\brainarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8032BA-D5BD-74E8-B825-FA357B887C0D}|Assembly-CSharp.csproj|D:\\UnityProject\\MRIBrainApp\\assets\\brainobject\\brainpartselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8032BA-D5BD-74E8-B825-FA357B887C0D}|Assembly-CSharp.csproj|solutionrelative:assets\\brainobject\\brainpartselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8032BA-D5BD-74E8-B825-FA357B887C0D}|Assembly-CSharp.csproj|D:\\UnityProject\\MRIBrainApp\\assets\\brainobject\\simplebrainpartextrusion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8032BA-D5BD-74E8-B825-FA357B887C0D}|Assembly-CSharp.csproj|solutionrelative:assets\\brainobject\\simplebrainpartextrusion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8032BA-D5BD-74E8-B825-FA357B887C0D}|Assembly-CSharp.csproj|D:\\UnityProject\\MRIBrainApp\\assets\\brainobject\\simplebraininteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8032BA-D5BD-74E8-B825-FA357B887C0D}|Assembly-CSharp.csproj|solutionrelative:assets\\brainobject\\simplebraininteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleBrainPartExtrusion.cs",
+              "DocumentMoniker": "D:\\UnityProject\\MRIBrainApp\\Assets\\BrainObject\\SimpleBrainPartExtrusion.cs",
+              "RelativeDocumentMoniker": "Assets\\BrainObject\\SimpleBrainPartExtrusion.cs",
+              "ToolTip": "D:\\UnityProject\\MRIBrainApp\\Assets\\BrainObject\\SimpleBrainPartExtrusion.cs",
+              "RelativeToolTip": "Assets\\BrainObject\\SimpleBrainPartExtrusion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:19:54.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleBrainInteraction.cs",
+              "DocumentMoniker": "D:\\UnityProject\\MRIBrainApp\\Assets\\BrainObject\\SimpleBrainInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\BrainObject\\SimpleBrainInteraction.cs",
+              "ToolTip": "D:\\UnityProject\\MRIBrainApp\\Assets\\BrainObject\\SimpleBrainInteraction.cs",
+              "RelativeToolTip": "Assets\\BrainObject\\SimpleBrainInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:35:34.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrainARController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\MRIBrainApp\\Assets\\BrainObject\\BrainARController.cs",
+              "RelativeDocumentMoniker": "Assets\\BrainObject\\BrainARController.cs",
+              "ToolTip": "D:\\UnityProject\\MRIBrainApp\\Assets\\BrainObject\\BrainARController.cs",
+              "RelativeToolTip": "Assets\\BrainObject\\BrainARController.cs",
+              "ViewState": "AgIAAH4EAAAAAAAAAAAowKgEAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:21:05.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrainPartSelector.cs",
+              "DocumentMoniker": "D:\\UnityProject\\MRIBrainApp\\Assets\\BrainObject\\BrainPartSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\BrainObject\\BrainPartSelector.cs",
+              "ToolTip": "D:\\UnityProject\\MRIBrainApp\\Assets\\BrainObject\\BrainPartSelector.cs",
+              "RelativeToolTip": "Assets\\BrainObject\\BrainPartSelector.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:08:07.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
